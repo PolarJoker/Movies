@@ -1,6 +1,6 @@
 ## Welcome to PolarJokerCinema
 
-You can use the [editor on GitHub](https://github.com/PolarJoker/Movies/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I'm a wildlife and nature enthusiast, who happens to love cinema to the same extent. I use this webpage as a platform to share my views on the movies/shows that I watch. 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
