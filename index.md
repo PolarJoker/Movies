@@ -24,6 +24,8 @@ Syntax highlighted code block
 [Link](url) and ![Image](/PolarJokerCinema/download(1).jpg)
 ```
 
+![useful image](download.jpg)
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
